@@ -4,7 +4,7 @@ public class Tail1
 
 		public static void main(String[] args)
 			{
-				System.out.println(mystery(11));
+				System.out.println(mystery(13));
 
 			}
 		public static int mystery(int n)
